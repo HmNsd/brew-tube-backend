@@ -27,6 +27,4 @@ A scalable video platform for uploading, streaming, and sharing content, complet
 git clone https://github.com/hmnsd/brew-tube-backend.git
 cd brew-tube-backend
 npm install
-cp .env.example .env
-
 npm run dev
